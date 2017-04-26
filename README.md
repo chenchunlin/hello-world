@@ -1,6 +1,6 @@
 hello-world
 
-My name is Chunlin Chen.
+My name is Michael Chen.
 ===========
 
 My first repository on GitHub.
